@@ -1,0 +1,16 @@
+C:\Users\tabua\Desktop\test2\ConsoleAkademetre\ConsoleAkademetre\bin\Debug\ConsoleAkademetre.exe.config
+C:\Users\tabua\Desktop\test2\ConsoleAkademetre\ConsoleAkademetre\bin\Debug\ConsoleAkademetre.exe
+C:\Users\tabua\Desktop\test2\ConsoleAkademetre\ConsoleAkademetre\bin\Debug\ConsoleAkademetre.pdb
+C:\Users\tabua\Desktop\test2\ConsoleAkademetre\ConsoleAkademetre\obj\Debug\ConsoleAkademetre.csprojAssemblyReference.cache
+C:\Users\tabua\Desktop\test2\ConsoleAkademetre\ConsoleAkademetre\obj\Debug\ConsoleAkademetre.csproj.CoreCompileInputs.cache
+C:\Users\tabua\Desktop\test2\ConsoleAkademetre\ConsoleAkademetre\obj\Debug\ConsoleAkademetre.exe
+C:\Users\tabua\Desktop\test2\ConsoleAkademetre\ConsoleAkademetre\obj\Debug\ConsoleAkademetre.pdb
+C:\Users\tabua\Desktop\test2\ConsoleAkademetre\ConsoleAkademetre\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\tabua\Desktop\test2\ConsoleAkademetre\ConsoleAkademetre\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\tabua\Desktop\test2\ConsoleAkademetre\ConsoleAkademetre\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\tabua\Desktop\test2\ConsoleAkademetre\ConsoleAkademetre\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\tabua\Desktop\test2\ConsoleAkademetre\ConsoleAkademetre\bin\Debug\WebDriver.dll
+C:\Users\tabua\Desktop\test2\ConsoleAkademetre\ConsoleAkademetre\bin\Debug\WebDriver.Support.dll
+C:\Users\tabua\Desktop\test2\ConsoleAkademetre\ConsoleAkademetre\obj\Debug\ConsoleAkademetre.csproj.CopyComplete
+C:\Users\tabua\Desktop\test2\ConsoleAkademetre\ConsoleAkademetre\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\tabua\Desktop\test2\ConsoleAkademetre\ConsoleAkademetre\bin\Debug\DocumentFormat.OpenXml.xml
