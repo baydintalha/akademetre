@@ -1,2 +1,2 @@
 # akademetre
-![](https://github.com/baydintalha/akademetre.git/gif_scrape.gif)
+![](https://github.com/baydintalha/akademetre/blob/main/gif_excel.gif)
