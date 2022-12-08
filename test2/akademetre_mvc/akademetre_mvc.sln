@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1831
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "akademetre_mvc", "akademetre_mvc\akademetre_mvc.csproj", "{B4AE26EF-8FC8-4545-9EDD-2E3273C1E7CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4AE26EF-8FC8-4545-9EDD-2E3273C1E7CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4AE26EF-8FC8-4545-9EDD-2E3273C1E7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4AE26EF-8FC8-4545-9EDD-2E3273C1E7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4AE26EF-8FC8-4545-9EDD-2E3273C1E7CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {045BC4EB-46B8-4657-A40E-18AAF74C8654}
+	EndGlobalSection
+EndGlobal
